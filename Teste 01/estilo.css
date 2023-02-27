@@ -1,0 +1,175 @@
+.container{
+    margin-left: 94px;
+ 
+    flex-direction: column;
+}
+#img{
+    margin: 55px 1089px 870px 94px;
+    position: absolute;
+    width: 329px;
+    height: 57px;
+    left: 94px;
+    margin-top: 90px;
+}
+#h1{
+    
+    position: absolute; 
+    width: 350px;
+    height: 112px;
+    top: 112px;
+    margin-left: 94px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 62px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+    padding: 0px;
+
+}
+#h2{
+    
+    position: absolute;
+    width: 473px;
+    height: 74px;
+    margin-left: 94px;
+    top: 210px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+#email{
+    position: absolute;
+    width: 379px;
+    height: 74px;
+    margin-left: 94px;
+    top: 307px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+#caixa1{
+    position: absolute;
+
+    position: absolute;
+    width: 566px;
+    height: 53px;
+    margin-left: 94px;
+    top: 386px;
+
+    background: #FFFFFF;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+#senha{
+    position: absolute;
+width: 379px;
+height: 74px;
+margin-left: 94px;
+top: 441px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 38px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+#caixa2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 566px;
+    height: 53px;
+    margin-left: 94px;
+    top: 515px;
+    
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    font-size: 33px;
+
+}
+#cx{
+    
+margin: 601px 1201px 326px 97px;
+    position: absolute;
+    
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+
+}
+#h3{
+    position: absolute;
+width: 587px;
+height: 74px;
+margin-left: 97px;
+top: 650px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 33px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.submit {
+    display: block;
+    width: 404.5px;
+    position: relative;
+    width: 404.5px;
+    height: 55px;
+    left: 94px;
+    top: 780px;
+ 
+    font-family:'Times New Roman';
+    font-size: 33px;
+    color:black;
+    border-color:#000000;
+    text-align: center;
+    align-items: center;
+    
+    
+}
